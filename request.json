@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "id": "538749e7-c707-4080-adf7-947629f1e397",
+  "repository": "rhkim00/example-tig-20260929-1704-538749",
+  "sourceCommit": "3206e2e5aaba8258ed13f50bd07c5d9d7ccb3c77",
+  "request": {
+    "title": "우선순위 큐에 대한 자료구조 문제 1개 만들어줘",
+    "requestCategory": "feature",
+    "scope": "우선순위 큐에 대한 자료구조 문제 1개 만들어줘",
+    "acceptanceChecks": [
+      "우선순위 큐에 대한 자료구조 문제 1개 만들어줘"
+    ],
+    "aiRequirement": {
+      "provider": "codex",
+      "model": "gpt-6-sol",
+      "effort": "high",
+      "source": "declared"
+    },
+    "rewardTig": "0",
+    "rewardMultiplier": "1.3",
+    "executionDeadlineAt": "2026-09-30T17:04:22.500Z",
+    "originalRequest": "우선순위 큐에 대한 자료구조 문제 1개 만들어줘",
+    "context": "Project folder: example. Git: branch master at 3206e2e; 0 changed and 0 new file(s) not yet committed. Tracked files: none.",
+    "completedWork": "Recent commits: \"Initialize project for Tokenisgold\".",
+    "constraints": [],
+    "setupSteps": [
+      "No install command was found in the project; follow its README."
+    ],
+    "testSteps": [
+      "No test command was found in the project; review the changed files against the acceptance checks."
+    ]
+  },
+  "layout": "tree"
+}
